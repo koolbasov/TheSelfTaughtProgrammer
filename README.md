@@ -1,2 +1,2 @@
 # TheSelfTaughtProgrammer
-book The Self Taught Programmer my code
+The Self Taught Programmer book, my code
